@@ -1,0 +1,11 @@
+C:\Probleme C\student\bin\Debug\student.exe.config
+C:\Probleme C\student\bin\Debug\student.exe
+C:\Probleme C\student\bin\Debug\student.pdb
+C:\Probleme C\student\obj\Debug\student.csproj.AssemblyReference.cache
+C:\Probleme C\student\obj\Debug\student.csproj.SuggestedBindingRedirects.cache
+C:\Probleme C\student\obj\Debug\student.Properties.Resources.resources
+C:\Probleme C\student\obj\Debug\student.csproj.GenerateResource.cache
+C:\Probleme C\student\obj\Debug\student.csproj.CoreCompileInputs.cache
+C:\Probleme C\student\obj\Debug\student.exe
+C:\Probleme C\student\obj\Debug\student.pdb
+C:\Probleme C\student\obj\Debug\student.Form1.resources
