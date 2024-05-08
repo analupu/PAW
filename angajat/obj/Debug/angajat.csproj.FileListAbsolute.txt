@@ -1,0 +1,22 @@
+C:\Probleme C\angajat\bin\Debug\angajat.exe.config
+C:\Probleme C\angajat\bin\Debug\angajat.exe
+C:\Probleme C\angajat\bin\Debug\angajat.pdb
+C:\Probleme C\angajat\obj\Debug\angajat.csproj.AssemblyReference.cache
+C:\Probleme C\angajat\obj\Debug\angajat.csproj.SuggestedBindingRedirects.cache
+C:\Probleme C\angajat\obj\Debug\angajat.Properties.Resources.resources
+C:\Probleme C\angajat\obj\Debug\angajat.csproj.GenerateResource.cache
+C:\Probleme C\angajat\obj\Debug\angajat.csproj.CoreCompileInputs.cache
+C:\Probleme C\angajat\obj\Debug\angajat.exe
+C:\Probleme C\angajat\obj\Debug\angajat.pdb
+C:\Probleme C\angajat\obj\Debug\angajat.Form1.resources
+C:\Users\anama\OneDrive\Desktop\angajat\obj\Debug\angajat.csproj.AssemblyReference.cache
+C:\Users\anama\OneDrive\Desktop\angajat\obj\Debug\angajat.csproj.SuggestedBindingRedirects.cache
+C:\Users\anama\OneDrive\Desktop\angajat\obj\Debug\angajat.Form1.resources
+C:\Users\anama\OneDrive\Desktop\angajat\obj\Debug\angajat.Properties.Resources.resources
+C:\Users\anama\OneDrive\Desktop\angajat\obj\Debug\angajat.csproj.GenerateResource.cache
+C:\Users\anama\OneDrive\Desktop\angajat\obj\Debug\angajat.csproj.CoreCompileInputs.cache
+C:\Users\anama\OneDrive\Desktop\angajat\obj\Debug\angajat.exe
+C:\Users\anama\OneDrive\Desktop\angajat\obj\Debug\angajat.pdb
+C:\Users\anama\OneDrive\Desktop\angajat\bin\Debug\angajat.exe.config
+C:\Users\anama\OneDrive\Desktop\angajat\bin\Debug\angajat.exe
+C:\Users\anama\OneDrive\Desktop\angajat\bin\Debug\angajat.pdb
