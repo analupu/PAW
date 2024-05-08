@@ -1,0 +1,12 @@
+C:\Probleme C\Floare\bin\Debug\Floare.exe.config
+C:\Probleme C\Floare\bin\Debug\Floare.exe
+C:\Probleme C\Floare\bin\Debug\Floare.pdb
+C:\Probleme C\Floare\obj\Debug\Floare.csproj.AssemblyReference.cache
+C:\Probleme C\Floare\obj\Debug\Floare.csproj.SuggestedBindingRedirects.cache
+C:\Probleme C\Floare\obj\Debug\Floare.Form1.resources
+C:\Probleme C\Floare\obj\Debug\Floare.Properties.Resources.resources
+C:\Probleme C\Floare\obj\Debug\Floare.csproj.GenerateResource.cache
+C:\Probleme C\Floare\obj\Debug\Floare.csproj.CoreCompileInputs.cache
+C:\Probleme C\Floare\obj\Debug\Floare.exe
+C:\Probleme C\Floare\obj\Debug\Floare.pdb
+C:\Probleme C\Floare\obj\Debug\Floare.Form2.resources
