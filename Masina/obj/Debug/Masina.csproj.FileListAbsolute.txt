@@ -1,0 +1,12 @@
+C:\Probleme C\Masina\bin\Debug\Masina.exe.config
+C:\Probleme C\Masina\bin\Debug\Masina.exe
+C:\Probleme C\Masina\bin\Debug\Masina.pdb
+C:\Probleme C\Masina\obj\Debug\Masina.csproj.AssemblyReference.cache
+C:\Probleme C\Masina\obj\Debug\Masina.csproj.SuggestedBindingRedirects.cache
+C:\Probleme C\Masina\obj\Debug\Masina.Form1.resources
+C:\Probleme C\Masina\obj\Debug\Masina.Properties.Resources.resources
+C:\Probleme C\Masina\obj\Debug\Masina.csproj.GenerateResource.cache
+C:\Probleme C\Masina\obj\Debug\Masina.csproj.CoreCompileInputs.cache
+C:\Probleme C\Masina\obj\Debug\Masina.exe
+C:\Probleme C\Masina\obj\Debug\Masina.pdb
+C:\Probleme C\Masina\obj\Debug\Masina.Form2.resources
